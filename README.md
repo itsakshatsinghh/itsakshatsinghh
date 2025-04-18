@@ -2,7 +2,13 @@
 <h3 align="center">Yes, I code. No, I don’t need your approval.</h3>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9qcGtqd2luYmczanFtenJ3enplcWtqcDhrNmdtdGZlNHBvanpnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/icIr8rk03xQI6NS67S/giphy.gif" align="right" width="250" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <h1>Hey 👋, I'm Sejal Mishra</h1>
+    <h3>Yes, I code. No, I don’t need your approval.</h3>
+  </div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9qcGtqd2luYmczanFtenJ3enplcWtqcDhrNmdtdGZlNHBvanpnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/icIr8rk03xQI6NS67S/giphy.gif" width="200"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakshatsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="itsakshatsinghh" /> </p>
 
