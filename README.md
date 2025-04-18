@@ -4,8 +4,6 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <div>
-    <h1>Hey 👋, I'm Sejal Mishra</h1>
-    <h3>Yes, I code. No, I don’t need your approval.</h3>
   </div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9qcGtqd2luYmczanFtenJ3enplcWtqcDhrNmdtdGZlNHBvanpnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/icIr8rk03xQI6NS67S/giphy.gif" width="200"/>
 </div>
