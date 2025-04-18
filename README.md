@@ -1,19 +1,22 @@
-<h1 align="center">Hey 👋, I'm Akshat Singh</h1>
-<h3 align="center">Not all heroes wear capes. Some just push code.</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZucDAwbnN6NXhyNGhqMGtxcG5jYmlwbmh0emNocWt5dGtmYTdkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PNjtjuLXSPmH3deK8/giphy.gif" align="right" width="250" />
+<h1 align="center">Hey 👋, I'm Sejal Mishra</h1>
+<h3 align="center">Yes, I code. No, I don’t need your approval.</h3>
 
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZucDAwbnN6NXhyNGhqMGtxcG5jYmlwbmh0emNocWt5dGtmYTdkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PNjtjuLXSPmH3deK8/giphy.gif" align="right" width="250" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakshatsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="itsakshatsinghh" /> </p>
 
-- 🔭 I’m currently working on **AIgen**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsakshatsinghh" alt="itsakshatsinghh" /></a> </p>
 
-- 🌱 I’m currently learning **FastAPI , Nexxt.js , MERN**
+- 🔭 I’m currently working on *AIgen*
+
+- 🌱 I’m currently learning *Frontend , Nexxt.js , LLM's*
 
 - 👨‍💻 All of my projects are available at [gonna post this soon :(](gonna post this soon :()
 
-- 📫 How to reach me **ranaakshatprof45@gmail.com**
+- 📫 How to reach me *sejalmishra8sept@gmail.com*
 
-- ⚡ Fun fact **I once automated my life so well, I forgot I was supposed to do things manually.**
+- ⚡ Fun fact *My code doesn’t ask for permission. It executes.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
