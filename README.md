@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Sejal Mishra</h1>
+<h1 align="center">Hey 👋, I'm Akshat Singh</h1>
 <h3 align="center">Yes, I code. No, I don’t need your approval.</h3>
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <div>
   </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9qcGtqd2luYmczanFtenJ3enplcWtqcDhrNmdtdGZlNHBvanpnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/icIr8rk03xQI6NS67S/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhMjhqZ3o1YXd3N3B6ajdna2p0NDBzam9uZjU2bDA3MTNndXd4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oXnN2TNSgfJQI/giphy.gif" width="200"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakshatsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="itsakshatsinghh" /> </p>
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [gonna post this soon :(](gonna post this soon :()
 
-- 📫 How to reach me *sejalmishra8sept@gmail.com*
+- 📫 How to reach me *ranaakshatrof45@gmail.com*
 
 - ⚡ Fun fact *My code doesn’t ask for permission. It executes.*
 
