@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on *AIgen*
 
-- 🌱 I’m currently learning *Frontend , Nexxt.js , LLM's*
+- 🌱 I’m currently learning *Frontend , Nexxt.js , LLM's, DSA*
 
 - 👨‍💻 All of my projects are available at [gonna post this soon :(](gonna post this soon :()
 
